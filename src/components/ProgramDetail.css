@@ -1,0 +1,18 @@
+.program-detail{
+    display:inline-block;
+    margin:10px;
+    text-align: justify;
+   
+}
+.program-description
+{
+    width:500px;
+    font-size:10px;
+    color: white;
+    border: 1px solid;
+    
+}
+.program-description h3{
+    color:white;
+    background-color: rgb(8, 8, 66);
+}

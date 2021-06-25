@@ -1,0 +1,22 @@
+.program-item{
+    display:inline-block;
+    margin:2px;
+    border:1px solid;
+    cursor:pointer;
+    background-color:rgb(12, 24, 94);
+}
+.program-item img{
+    width:180px;
+}
+.program-item h3{
+   width:170px;
+   font-size:10px;
+   color:white;
+}
+.program-item span{
+    color: white;
+   
+}
+.program-info{
+    background-color:white;
+}
